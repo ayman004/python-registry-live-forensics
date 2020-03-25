@@ -1,9 +1,9 @@
-Windows Registry Live Forensics 
+Windows Registry Live Forensics <br /> 
 
-These are python scripts that extract data from windows registry using python.
-The data extracted are:
-=>Start up programs - startup.python 
-=>RunMRU - RunMRU.python
-=>Recent opened documents - recen documents.py
-=>RunOnce application - RunOnce.py
-=>Detect back door in Application  - ImageFileExecution.py
+These are python scripts that extract data from windows registry using python.<br />
+The data extracted are:<br />
+=>Start up programs - startup.python <br />
+=>RunMRU - RunMRU.python<br />
+=>Recent opened documents - recen documents.py<br />
+=>RunOnce application - RunOnce.py<br />
+=>Detect back door in Application  - ImageFileExecution.py<br />
